@@ -15,6 +15,6 @@ Data analyst turning raw numbers into clear, usable insight.
 See pinned repos below for sample analyses — each includes the business question, method, and key findings.
 
 ### Let's connect
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/habiba-yusuf-a87579198?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - Upwork/Fiverr:
 - Email: habibayusuf2015@gmail.com
