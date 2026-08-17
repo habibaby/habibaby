@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Habiba 👋
 
-<!--
-**habibaby/habibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst turning raw numbers into clear, usable insight.
 
-Here are some ideas to get you started:
+- 🔬 B.Sc. Biochemistry (Usmanu Danfodiyo University, Sokoto) — final-year project in Bioinformatics
+- 📊 Currently building freelance data analysis skills: cleaning, formulas/pivot tables, charting, and insight-writing
+- 🚀 General Manager, Sultini — a food & pharmacy delivery marketplace
+- 🌍 Based in Sokoto, Nigeria | Bilingual: English & Hausa
+- 🤝 Open to freelance data analysis projects (Excel, Sheets, and growing SQL/Python skills)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+`Excel` `Google Sheets` `Pivot Tables` `Data Cleaning` `Dashboards` `Data Visualization`
+
+### Featured projects
+See pinned repos below for sample analyses — each includes the business question, method, and key findings.
+
+### Let's connect
+- LinkedIn: [add your link]
+- Upwork/Fiverr: [add your link]
+- Email: [add your email]
